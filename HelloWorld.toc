@@ -1,0 +1,6 @@
+## Interface: 90105
+## Title: Test AddOn
+## Author: Aleksa Cakic
+## Version: 0.1
+
+src\Main.lua
